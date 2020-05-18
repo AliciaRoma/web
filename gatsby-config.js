@@ -3,12 +3,12 @@ module.exports = {
     title: `Alicia Roma`,
     author: {
       name: `Alicia Roma`,
-      summary: `editora, escritora, correctora...`,
+      summary: `「Correctora editorial • Proyecto de escritora」Hago magia con las letras.✨ ¡Bididi badidi bu! 🧚‍♀️`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    description: `「Correctora editorial • Proyecto de escritora」Hago magia con las letras.✨ ¡Bididi badidi bu! 🧚‍♀️`,
+    siteUrl: `https://aliciaroma.es/`,
     social: {
-      twitter: `magagramtical`,
+      twitter: `magagramatical`,
     },
   },
   plugins: [
