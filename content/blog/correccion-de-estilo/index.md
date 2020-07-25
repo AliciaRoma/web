@@ -56,6 +56,6 @@ Así acaba la entrada de hoy. Me dejo alguna cosita en el tintero de la que habl
 
 Para concluir el post de hoy quiero dejar un mensaje a quienes están dudando si contar con un corrector o no.
 
-_Relax. _Podéis respirar con calma y confiar en nosotros. No vamos a poner en riesgo tu obra porque nuestra labor es hacer que brille con la luz que ya tiene.
+_Relax_. Podéis respirar con calma y confiar en nosotros. No vamos a poner en riesgo tu obra porque nuestra labor es hacer que brille con la luz que ya tiene.
 
 ¡Hasta la próxima, _wizards_! 🧙‍♀️
