@@ -4,10 +4,6 @@ import { useStaticQuery, graphql } from 'gatsby'
 import IconLinkedIn from './IconLinkedIn'
 import IconTwitter from './IconTwitter'
 
-interface SocialIconsProps {
-  className?: string
-}
-
 const Wrapper = styled.div`
   display: flex;
   color: var(--accent-color-1);
@@ -18,7 +14,7 @@ const Link = styled.a`
   padding: 4px;
 `
 
-function SocialIcons(props: SocialIconsProps) {
+function SocialIcons(props) {
   const data = useStaticQuery(graphql`
     query SocialLinksQuery {
       site {
@@ -45,4 +41,3 @@ function SocialIcons(props: SocialIconsProps) {
 }
 
 export default SocialIcons
-export { SocialIcons }

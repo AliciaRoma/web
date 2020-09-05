@@ -2,13 +2,7 @@ import React, { CSSProperties } from 'react'
 import { kebabCase } from 'lodash'
 import { rhythm } from "../utils/typography"
 
-interface TagsProps {
-  className?: string
-  style?: CSSProperties
-  tags: string[]
-}
-
-function Tags({ className, tags, style }: TagsProps) {
+function Tags({ className, tags, style }) {
   return (
     <ul
       className={className}
@@ -52,4 +46,3 @@ function Tags({ className, tags, style }: TagsProps) {
 }
 
 export default Tags
-export type { TagsProps }

@@ -1,12 +1,6 @@
 import React, { useRef, useEffect, useState } from 'react'
 import styled from 'styled-components'
-import 'applause-button/dist/applause-button.js'
-import 'applause-button/dist/applause-button.css'
 import { rhythm } from "../utils/typography"
-
-interface ApplauseButtonProps {
-  className?: string
-}
 
 const Wrapper = styled.div`
   display: flex;
@@ -43,12 +37,14 @@ const Wrapper = styled.div`
   
 `
 
-function ApplauseButton(props: ApplauseButtonProps) {
-  const ref = useRef<HTMLElement>(null)
+function ApplauseButton(props) {
+  /** @type {HTMLElement} */
+  const ref = useRef(null)
   const [count, setCount] = useState('-')
 
   useEffect(() => {
-    const count: HTMLElement = ref.current.querySelector('.count');
+    /** @type {HTMLElement} */
+    const count = ref.current.querySelector('.count');
     
     const observer = new MutationObserver(() => {
       setCount(count.innerText)
@@ -71,5 +67,3 @@ function ApplauseButton(props: ApplauseButtonProps) {
 }
 
 export default ApplauseButton
-export { ApplauseButton }
-export type { ApplauseButtonProps }

@@ -5,11 +5,7 @@ import ApplauseButton from './ApplauseButton'
 import Tags, { TagsProps } from './Tags'
 import SocialIcons from './SocialIcons/SocialIcons'
 
-interface BlogPostFooterProps extends Partial<TagsProps> {
-  className?: string
-}
-
-function BlogPostFooter({ className, tags }: BlogPostFooterProps) {
+function BlogPostFooter({ className, tags }) {
   return (
     <footer className={className}>
       <Tags tags={tags} style={{ marginBottom: rhythm(0.8) }} />
@@ -36,4 +32,3 @@ function BlogPostFooter({ className, tags }: BlogPostFooterProps) {
 }
 
 export default BlogPostFooter
-export type { BlogPostFooterProps }

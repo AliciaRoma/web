@@ -1,10 +1,6 @@
 import React from 'react'
 
-interface IconLinkedInProps {
-  className?: string
-}
-
-function IconLinkedIn(props: IconLinkedInProps) {
+function IconLinkedIn(props) {
   return (
     <svg
       version="1.1"
@@ -13,10 +9,11 @@ function IconLinkedIn(props: IconLinkedInProps) {
       x="0px"
       y="0px"
       viewBox="0 0 382 382"
-      style={{ enableBackground: 'new 0 0 382 382' } as any}
+      style={{ enableBackground: 'new 0 0 382 382' }}
       xmlSpace="preserve"
       width="18px"
       height="18px"
+      {...props}
     >
     <path fill="currentColor" d="M347.445,0H34.555C15.471,0,0,15.471,0,34.555v312.889C0,366.529,15.471,382,34.555,382h312.889
       C366.529,382,382,366.529,382,347.444V34.555C382,15.471,366.529,0,347.445,0z M118.207,329.844c0,5.554-4.502,10.056-10.056,10.056
@@ -63,5 +60,3 @@ function IconLinkedIn(props: IconLinkedInProps) {
 }
 
 export default IconLinkedIn
-export { IconLinkedIn }
-export type { IconLinkedInProps }

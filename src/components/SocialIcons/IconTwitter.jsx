@@ -1,10 +1,6 @@
 import React from 'react'
 
-interface IconTwitterProps {
-  className?: string
-}
-
-function IconTwitter(props: IconTwitterProps) {
+function IconTwitter(props) {
   return (
     <svg
       version="1.1"
@@ -13,10 +9,11 @@ function IconTwitter(props: IconTwitterProps) {
       x="0px"
       y="0px"
       viewBox="0 0 512 512"
-      style={{ enableBackground: 'new 0 0 512 512' } as any}
+      style={{ enableBackground: 'new 0 0 512 512' }}
       xmlSpace="preserve"
       width="18px"
       height="18px"
+      {...props}
     >
     <g>
       <g>
@@ -65,5 +62,3 @@ function IconTwitter(props: IconTwitterProps) {
 }
 
 export default IconTwitter
-export { IconTwitter }
-export type { IconTwitterProps }
