@@ -2,6 +2,7 @@
 title: ¿Qué es la corrección editorial?
 date: "2020-05-18T18:45:00.000Z"
 description: "Quiero estrenar el blog dando una pequeña pincelada sobre la corrección editorial respondiendo a algunas preguntas: ¿qué es? ¿Cuántos tipos hay? ¿Cuál es el papel de los correctores?"
+tags: ["Corrección"]
 ---
 
 Brujitas y brujitos, ¡os doy la bienvenida! ✨

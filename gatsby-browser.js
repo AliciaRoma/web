@@ -4,4 +4,5 @@
 
 // import "prismjs/themes/prism.css"
 import "./src/styles/global.css"
+import "./src/styles/home.css"
 import "./src/styles/article.css"

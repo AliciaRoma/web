@@ -8,7 +8,8 @@ module.exports = {
     description: `「Correctora editorial • Proyecto de escritora」Hago magia con las letras.✨ ¡Bididi badidi bu! 🧚‍♀️`,
     siteUrl: `https://aliciaroma.es/`,
     social: {
-      twitter: `magagramatical`,
+      twitter: `https://twitter.com/magagramatical`,
+      linkedin: `https://www.linkedin.com/in/aliciaroma`
     },
   },
   plugins: [
