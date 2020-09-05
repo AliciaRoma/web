@@ -38,14 +38,22 @@ const Wrapper = styled.div`
 `
 
 function ApplauseButton(props) {
-  /** @type {HTMLElement} */
+  /** @type {HTMLElement|undefined} */
   const ref = useRef(null)
   const [count, setCount] = useState('-')
 
   useEffect(() => {
+    if (!ref.current) {
+      return
+    }
+
     /** @type {HTMLElement} */
     const count = ref.current.querySelector('.count');
     
+    if (!count) {
+      return
+    }
+
     const observer = new MutationObserver(() => {
       setCount(count.innerText)
     });
