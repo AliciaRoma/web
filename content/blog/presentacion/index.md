@@ -10,8 +10,8 @@ Te presento mi primer post en este blog. ¿Y qué es? Una presentación. Inesper
 
 Una vez desentrañado mi nombre, quiero hablarte sobre mí y, como aspiro a convertirme en escritora, lo voy a hacer de forma diferente. Quiero contarte una historia. 
 
+![Artista: Ire.mg.](./Ali-1.jpg)
 
-Artista: Ire.mg (twitter: ([@Ire_mgg](https://twitter.com/Ire_mgg))
 
 ## Hace mucho, mucho tiempo, en un reino muy lejano...
 
@@ -25,14 +25,14 @@ Mientras sus ganas por escribir crecían, también lo hacían su magia. En 2013 
 
 Creo que, llegados a este punto, podrás saber de dónde viene el pseudónimo que utiliza en twitter: ([MagaGramatical](https://twitter.com/MagaGramatical)).
 
-Artista: Guille art (twitter: ([@Guillerartart](https://twitter.com/Guillerartart))
+![Artista: Guille art.](./Ali-2.jpg)
 
 Así, casi sin querer, hemos descifrado el primer momento fundamental en su vida: la creación del foro Once Upon a Time y el comienzo de sus estudios en magia. El segundo llegó algunos años después, cuando el hada azul le concedió un deseo que ni ella misma sabía que tenía: pasar medio año en un reino muy, muy lejano donde trabajaría en el lugar más mágico del mundo. Para una joven cuyas tres pasiones son la magia, escribir y viajar, aquel destino era perfecto. En 2018 viajó a Walt Disney World Resort en Orlando (Florida) y allí, acompañada de los personajes de los cuentos que siempre había querido conocer, aprendió a regalar magia a habitantes de todo el mundo. 
 
 Su barco volvió seis meses después y decidió que era el momento de acabar la universidad mientras seguía con su labor de voluntariado y escribiendo sin parar. Lo que nos lleva al tercer momento en 2019. El hada azul decidió visitarla de nuevo para poner frente a ella algo que se convertiría en su pasión: un curso de corrección de estilo. Se sintió tan fascinada que continuó por ese camino y se formó, también, como correctora ortotipográfíca. La magia y las letras han seguido con ella a lo largo de los años y, al fin, se han unido en un único punto pues desde ese instante ha dedicado todos sus esfuerzos a abrirse un hueco como correctora, escritora y redactora.
 
+![Artista: Martha Ishbel.](./Ali-3.jpg)
 
-Artista: Martha Ishbel (twitter: ([@Marthaisbl](https://twitter.com/Marthaisbl))
 
 Y vivió feliz para siempre. Este debería ser el final. No obstante, la historia aún se está escribiendo. A sus veintiocho años continua formándose en todo aquello que llama su atención, escribe, lee, corrige y crea. Y sigue aprendiendo de todas aquellas personas que se cruzan en su camino.
 
@@ -45,3 +45,6 @@ Así acaba la historia, por ahora. Cada día se añadirá un nuevo capítulo a m
 Esta soy yo, con mis pros, mis contras y mis cosas. Y este va a ser mi blog, un lugar en el que se mezclarán temas como creatividad, escritura, corrección o lenguaje inclusivo (ese tema tabú que es tan necesario hoy en día). Quiero crear un espacio ameno a la par que informativo y este es solo el primer paso de este largo camino.
 
 ¿Te atreves a empezarlo conmigo? 🧙‍♀️
+
+Nota: les artistes de las imágenes son Ire.mg (twitter: ([@Ire_mgg](https://twitter.com/Ire_mgg)), Guille art (twitter: ([@Guillerartart](https://twitter.com/Guillerartart)) y Martha Ishbel (twitter: ([@Marthaisbl](https://twitter.com/Marthaisbl)).
+
