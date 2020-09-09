@@ -1,5 +1,5 @@
 ---
-title: ¿Qué es una maga gramatical?
+title: Esta soy yo, una «maga gramatical»
 date: "2020-09-03T18:45:00.000Z"
 description: "Antes de empezar a escribir y llenar tu cabeza de información y de cosas varias, me gustaría presentarme. Holi, soy Alicia y, aunque mi apellido real no es Roma, queda chulo, ¿no?"
 tags: []
