@@ -1,8 +1,8 @@
 ---
-title: El «dixirreto»: ¿esto qué es?
+title: El «dixirreto», ¿esto qué es?
 date: "2020-09-13T18:45:00.000Z"
-description: "Con ayuda de mi gran amigo el juego de mesa Dixit, he creado un reto creativo que estoy deseando enseñarte."
-tags: ["Dixirreto"] ["Escritura creativa"]
+description: "Con ayuda de mi gran amigo Dixit, he creado un reto creativo que estoy deseando enseñarte."
+tags: [Escritura creativa]
 ---
 Brujitos, brujitas y brujites, _welcome_! ✨
 
@@ -39,6 +39,6 @@ El dixirreto consiste en **escribir un relato que se inspire en una de las carta
 
 Sé que este es solo un reto de escritura más basado, en este caso, en un juego de mesa. Sin embargo, estoy aquí para demostrarme a mí misma que puedo escribir sobre temas muy distintos, **salir de mi zona de confort y dejar volar mi imaginación**. 
 
-Cada dos semanas llegará un nuevo relato y espero que os guste. Al fin y al cabo, todes les aquí presentes somos personas que amamos las letras, las historias y la creatividad, ¿verdad?
+Cada dos semanas llegará un nuevo relato y espero que os guste. Al fin y al cabo, todes les aquí presentes somos personas que amamos las letras, las historias y la creatividad. Y por favor, si alguien se anima con este reto, ¡que me lo diga sin dudarlo!
 
 ¡Hasta la próxima, _wizards_! 🧙‍♀️
