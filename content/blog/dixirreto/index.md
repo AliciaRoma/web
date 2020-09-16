@@ -1,8 +1,8 @@
 ---
 title: El «dixirreto», ¿esto qué es?
 date: "2020-09-13T18:45:00.000Z"
-description: "Con ayuda de mi gran amigo Dixit, he creado un reto creativo que estoy deseando enseñarte."
-tags: [Escritura creativa]
+description: "Con ayuda de mi gran amigo el juego de mesa Dixit, he ideado un reto de escritura basado en imágenes estrambóticas, objetivos escritoriles y mucha, mucha creatividad."
+tags: ["Dixirreto","Escritura creativa"]
 ---
 Brujitos, brujitas y brujites, _welcome_! ✨
 
