@@ -1,5 +1,5 @@
 ---
-title: El «dixirreto», ¿esto qué es?
+title: "El «dixirreto», ¿esto qué es?"
 date: "2020-09-13T18:45:00.000Z"
 description: "Con ayuda de mi gran amigo el juego de mesa Dixit, he ideado un reto de escritura basado en imágenes estrambóticas, objetivos escritoriles y mucha, mucha creatividad."
 tags: ["Dixirreto","Escritura creativa"]
