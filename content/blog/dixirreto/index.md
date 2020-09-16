@@ -1,8 +1,8 @@
 ---
-title: El «dixirreto»: ¿esto qué es?
+title: El dixirreto: ¿esto qué es?
 date: "2020-09-13T18:45:00.000Z"
 description: "Con ayuda de mi gran amigo Dixit, he creado un reto creativo que estoy deseando enseñarte."
-tags: ["Dixirreto"] ["Escritura creativa"
+tags: ["Dixirreto"]["Escritura creativa"]
 ---
 
 Brujitos y brujitas, _welcome_! ✨
@@ -23,9 +23,9 @@ En definitiva, es **despertar tu cerebro y ponerte a escribir con una serie de p
 
 Dixit es un juego que se basa en la creatividad ya que tiene cartas con ilustraciones que dejan volar la imaginación de cada uno. Y justo eso es lo que vamos a hacer en el _dixirreto_: escribir una historia inspirándonos en una de las cartas del juego.
 
-He elegido un total de veinticuatro cartas al azar y he escrito el mismo número de objetivos. A final, han quedado divididos en cuatro categorías:
+He elegido un total de veinticuatro cartas al azar y he escrito el mismo número de objetivos, también al azar. El resultado es el que veis a continuación:
 
-![Cartas de Dixit elegidas aleatoriamente para este reto.](images/image1.jpg "image_tooltip")
+![Cartas de Dixit elegidas aleatoriamente para este reto.](./Cartas_dixit.jpg)
 
 <table>
   <tr>
@@ -102,7 +102,7 @@ He elegido un total de veinticuatro cartas al azar y he escrito el mismo número
 
 
 
-El dixirreto consiste en **escribir un relato que se inspire en una de las cartas y cumpla uno de los objetivos**. Y voy a hacerlo cada dos semanas, alternando un post de escritura creativa con otro de un tema completamente distinto como corrección, edición, usos del lenguaje, maquetación o lo que me vaya saliendo. De esta forma podréis conocer tanto mi faceta creativa como la más _profesional_ (con muchas comillas).
+El dixirreto consiste en **escribir un relato que se inspire en una de las cartas y cumpla uno de los objetivos** elegidos de forma aleatoria. Voy a hacerlo cada dos semanas, alternando un post de escritura creativa con otro de un tema completamente distinto como corrección, edición, usos del lenguaje, maquetación o lo que me vaya saliendo. De esta forma podréis conocer tanto mi faceta creativa como la más _profesional_ (con muchas comillas).
 
 Sé que este es solo un reto de escritura más basado, en este caso, en un juego de mesa. Pero estoy aquí para demostrarme a mí misma que puedo escribir sobre temas muy distintos, salir de mi zona de confort y dejar volar mi imaginación. 
 
