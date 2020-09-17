@@ -1,6 +1,6 @@
 ---
 title: "Corrección de estilo"
-date: "2020-05-25T18:45:00.000Z"
+date: "2020-09-17T18:45:00.000Z"
 description: "Los correctores de estilo nos centramos en la ortografía, la gramática, la sintaxis, la ortotipografía, el estilo y el formato de texto para darle claridad, concisión y armonía."
 tags: ["Corrección"]
 ---
