@@ -5,7 +5,7 @@ description: "Quiero estrenar el blog dando una pequeña pincelada sobre la corr
 tags: ["Corrección"]
 ---
 
-Brujitas y brujitos, ¡os doy la bienvenida! ✨
+Brujitas, brujites y brujitos, ¡os doy la bienvenida! ✨
 
 Tras meses y meses de planificación, al fin me he lanzado a escribir mi propio blog. Es un espacio en el que voy a hablar un poco de mi faceta como correctora editorial y como escritora muy novel. Ahora mismo estoy estudiando para poder sacarme la L del carnet de escritora.
 
