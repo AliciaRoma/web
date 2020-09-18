@@ -4,7 +4,7 @@ date: "2020-09-03T18:45:00.000Z"
 description: "Antes de empezar a escribir y llenar tu cabeza de información y de cosas varias, me gustaría presentarme. Holi, soy Alicia y, aunque mi apellido real no es Roma, queda chulo, ¿no?"
 tags: []
 ---
-Brujitos y brujitas, _welcome_! ✨
+Brujites, brujitas y brujitos, _welcome_! ✨
 
 Te presento mi primer post en este blog. ¿Y qué es? Una presentación. Inesperado, lo sé. Nadie comienza presentándose a sí mismo (nadie, nunca, jamás de los jamases ha pasado) así que voy a empezar por mi nombre: **_holi_, soy Alicia**. A secas. «¿Y de dónde viene Roma?», te podrás preguntar. Pues es una mezcla de mis dos apellidos, así de simple. Hace años lo elegí como nombre artístico (así soy, creando nombres artísticos para cosas relacionadas con la magia) y me gustó tanto que decidí utilizarlo como pseudónimo en casi todo.
 
