@@ -4,7 +4,7 @@ date: "2020-09-17T18:45:00.000Z"
 description: "Los correctores de estilo nos centramos en la ortografía, la gramática, la sintaxis, la ortotipografía, el estilo y el formato de texto para darle claridad, concisión y armonía."
 tags: ["Corrección"]
 ---
-Brujitos y brujitas, _welcome_! ✨
+Brujitos, brujitas y brujites, _welcome_! ✨
 
 Quiero hablar un poco más en detalle sobre la corrección de estilo. La mejor forma de definir qué es la encontramos en las palabras de Cristina Núñez: **«En la corrección de estilo se corrige todo menos el estilo»**. 
 
