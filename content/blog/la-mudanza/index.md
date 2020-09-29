@@ -1,7 +1,7 @@
 ---
-title: "Quien no teme a los cambios no ha vivido una mudanza"
+title: "Dixirreto: «La mudanza»"
 date: "2020-09-27T18:45:00.000Z"
-description: "Llega la inauguración del «dixirreto» con un relato muy cortito que habla sobre un evento de la vida cotidiana."
+description: "Llega la inauguración del dixirreto con un relato muy cortito que habla sobre un evento de la vida cotidiana."
 tags: ["Dixirreto","Escritura creativa"]
 ---
 Brujitos, brujitas y brujites, _welcome_! ✨
