@@ -10,9 +10,8 @@ Al fin ha llegado el día del primer [_dixirreto_](https://aliciaroma.es/blog/di
 
 No quiero hacer una introducción más larga, prefiero dejar que las palabras del relato hablen por mí. Pero, como es lógico, antes voy a enseñaros la carta y el objetivo de esta semana para que podáis ver el relato con otros ojos:
 
-IMG
-
-<p style="text-align: center;">Narrar un: suceso cotidiano</p>
+![Imagen de la tarjeta de Dixit para este reto](./Dixit.jpg)
+**<p style="text-align: center;">Narrar un: suceso cotidiano</p>**
 
 
 ## Quien no teme a los cambios no ha vivido una mudanza
@@ -43,4 +42,4 @@ Visto lo visto, casi prefería volver a mi transportín y quedarme a vivir en es
 
 Tenía mucho que hacer.
 
-IMG SEPARADOR
+![Un separador cuquísimo](./Separador.jpg)
