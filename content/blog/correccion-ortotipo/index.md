@@ -20,7 +20,7 @@ El corrector ortotipográfico modifica muchas cosas del texto que, además, suel
 
 Antes de continuar desgranando en detalle la labor que hacemos como correctores, quiero destacar que **es una labor humana irremplazable**. A día de hoy no existe un programa o _app_ capaz de revisar todos los aspectos formales de un texto. Por poner un par de ejemplos: ¿vuestro editor de textos detecta la diferencia entre «aun» y «aún»? ¿Ha reconocido como erróneo un cambio de «s» y «d» como en «de sentó»?
 
-![Imagen de: Write on!](./ortotipo.jpg)
+![Imagen de: Write on!](./corrector-ortotipo.jpg)
 
 
 ## ¿Qué se hace en una corrección ortotipográfica?
@@ -30,8 +30,6 @@ La ortotipografía se ocupa del **control de la calidad del texto aplicando los 
 Las normas por las que se rige la ortotipografía se desarrollaron en el mundo del impreso y, a día de hoy, no hay un único criterio que seguir. Estas normas cambian dependiendo de factores como la lengua que se utilice, el formato de la publicación, los distintos medios de comunicación, las diferentes editoriales, etc. Por tanto, al existir una gran disparidad de criterios, como correctores siempre debemos **saber qué pautas utiliza nuestro cliente** para adecuarnos a sus estándares.
 
 A grandes rasgos, y sabiendo que no seré capaz de enumerar todos, los correctores ortotipográficos nos encargamos de:
-
-
 
 *   **Corregir los errores ortográficos, sintácticos y gramaticales**. Esto incluye falta de concordancia entre sujeto y verbo, omisión de tildes, preposiciones mal colocadas, erratas y un largo etcétera.
 *   **Omisión o transposición de caracteres**. Esto ocurre muchísimo cuando se escribe rápido y es difícil de ver al revisar el texto.
@@ -43,8 +41,6 @@ A grandes rasgos, y sabiendo que no seré capaz de enumerar todos, los corrector
 *   **Ajustar la ortografía a las normas de la RAE**. Estemos de acuerdo o no con algunas cuestiones, los correctores siempre vamos a corregir en función de los criterios de la RAE.
 
 Cuando la corrección se realice sobre el texto ya maquetado para versión impresa, trabajamos sobre papel y trabajamos detectando una serie de detalles tales como:
-
-
 
 *   **Viudas y huérfanas**. Son líneas que, al quedar en una página distinta que el resto del párrafo al que pertenecen, aparecen aisladas de su contexto. 
 *   **Repetición de texto idéntico**, tanto en líneas seguidas como en el mismo lugar de la frase. Se marca cuando coinciden más de dos caracteres.
