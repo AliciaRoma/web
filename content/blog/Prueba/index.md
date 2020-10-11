@@ -6,3 +6,4 @@ tags: ["Probando", "Pip"]
 ---
 
 Esto es una prueba. Holi.
+! [Soy una imagen](./blogMG.jpg)
