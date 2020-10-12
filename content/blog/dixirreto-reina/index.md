@@ -11,7 +11,7 @@ Volvemos una semana más con otro [_dixirreto_](https://aliciaroma.es/blog/dixir
 
 Como en cada uno de estos relatos, la suerte ha elegido qué carta y qué objetivos serían la base de mi relato de esta semana. ¿Cómo lo he hecho? En esta ocasión, ha sido uno de mis amigos que, tras mirar todo lo que quedaba (que aún es mucho), ha seleccionado uno de cada, dejando estas opciones para la próxima quincena:
 
-![Cartas de Dixit elegidas aleatoriamente para este reto.](./Cartas_dixit2.png)
+![Cartas de Dixit elegidas aleatoriamente para este reto.](./cartas_dixit2.png)
 
 | Narrar un/una... | El protagonista es... | Basarlo en... | La temática es... |
 | ------------- |:-------------:| ------|--:|
@@ -25,7 +25,7 @@ Como en cada uno de estos relatos, la suerte ha elegido qué carta y qué objeti
 
 Una vez tenemos el contexto, es el momento de la magia de las palabras. Voy a enseñaros la carta y el objetivo de este dixirreto para que podáis ver el relato con otros ojos y penséis en qué habríais escrito si hubierais sacado lo mismo que yo. Estoy segura de que la idea sería completamente distinta. Vamos allá.
 
-![Imagen de la tarjeta de Dixit para este reto](./dixit-reina.png)
+![Imagen de la tarjeta de Dixit para este reto](./dixit_reina.png)
 **<p style="text-align: center;">Los protagonistas son: una pareja de hermanos</p>**
 
 
