@@ -6,7 +6,7 @@ tags: ["Corrección"]
 ---
 Brujitos, brujitas y brujites, _welcome_! ✨
 
-Hace un par de semanas (bueno, vale, quizá más cerca del mes)escribí una entrada sobre la [corrección de estilo](https://aliciaroma.es/blog/correccion-de-estilo/), y hoy quiero hablar sobre otro tipo de corrección: la ortotipográfica.
+Hace un par de semanas (bueno, vale, quizá más cerca del mes) escribí una entrada sobre la [corrección de estilo](https://aliciaroma.es/blog/correccion-de-estilo/), y hoy quiero hablar sobre otro tipo de corrección: la ortotipográfica.
 
 A grandes rasgos, y como su propio nombre indica, este tipo de corrección **se centra en la ortografía, la gramática y la ortotipografía del texto**. Se identifican y editan aquellas palabras escritas de forma errónea en un texto, erratas, errores tipográficos, de acentuación o puntuación y, en general, todos aquellos minidetalles que han pasado inadvertidos. 
 
