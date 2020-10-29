@@ -1,6 +1,6 @@
 ---
 title: "Mis trece mandamientos"
-date: "2020-11-22T16:45:00.000Z"
+date: "2020-10-22T16:45:00.000Z"
 description: "Diana P. Morales escribió los diez mandamientos que debía tener todo escritor. Y, como se me quedaban un poco cortos, he decidido crear los míos."
 tags: ["Escritura"]
 ---
@@ -81,7 +81,9 @@ Me encanta dar mucha información sobre todo y, al final, veo que me sobra la mi
 ### 13. No adorarás a personajes ajenos; sentirás orgullo de los tuyos.
 
 Personalmente, mis personajes son mis niños y mis niñas: lo sé todo sobre su hisotira, su personalidad, sus manías y sus miedos. Y me siento orgullosa de que hayan cobrado vida a través de mis palabras. Puede que algunos no sean los mejores, me avergüence de sus acciones o no esté de acuerdo con algunas de sus decisiones, pero al final del día solo puedo sentir orgullo. Si ellos van con la cabeza bien alta por las páginas, ¿quién soy yo para hacer lo contrario?  
-  
+
+![Un separador cuquísimo](./separador.jpg)
+
 Y aquí acaban mis trece mandamientos que, un día, maquetaré e imprimiré en una lámina para poder tenerlos siempre delante cuando escribo. Y espero que os hayan resultado, cuanto menos, curiosos. Y, si tenéis algo similar, estoy deseando leerlo.
 
 ¡Hasta la próxima, wizards! 🧙‍♀️
